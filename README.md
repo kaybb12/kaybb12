@@ -4,7 +4,7 @@ I wanna be a developer.
 - 🌱 I’m currently learning Mechatronic engineering, Intelligent Robotics, Programming
 - 📫 How to reach me: wogh8615@gmail.com
 
-<a href="https://jjh99.notion.site/">
+<a href="https://https://jjh99.notion.site/jjh99/Introduction-About-Myself-d15b317eba674602a1d3c32ffe98d9aa/">
   <img src="https://img.shields.io/badge/notion-f7df1e?style=flat-square&logo=Notion&logoColor=yellow"/>
 </a>
 
